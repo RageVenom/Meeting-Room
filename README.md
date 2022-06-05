@@ -1,14 +1,14 @@
 # Meeting-Zone
 Meeting Zone is flutter based chatting app used for either personal or public while sharing room id &amp; password. It's data is secured on firebase.
 
-
+## Screenshots
 ![ss](https://user-images.githubusercontent.com/55954636/172061421-15cf98e8-cc5e-41bf-a917-76d8aaef9470.PNG)
 
 ![ate](https://user-images.githubusercontent.com/55954636/172061411-4ea78426-ca0f-406c-a565-441df9d85f19.PNG)
 
 
 
-## Note
+### Note
 
 The file `lib/utility/sensitive_constants.dart` is intentionally omitted from pushing to GitHub.
 
